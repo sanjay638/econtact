@@ -1,0 +1,216 @@
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\sanja\source\repos\DataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\sanja\source\repos\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\sanja\source\repos\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\sanja\source\repos\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\sanja\source\repos\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\sanja\source\repos\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\sanja\source\repos\DataBase\DataBase\obj\Debug\DataBase.pdb
+D:\1\DataBase\DataBase\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\1\DataBase\DataBase\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\1\DataBase\DataBase\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\1\DataBase\DataBase\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\1\DataBase\DataBase\bin\Debug\DataBase.exe.config
+D:\1\DataBase\DataBase\bin\Debug\DataBase.exe
+D:\1\DataBase\DataBase\bin\Debug\DataBase.pdb
+D:\1\DataBase\DataBase\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1\DataBase\DataBase\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\1\DataBase\DataBase\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\1\DataBase\DataBase\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1\DataBase\DataBase\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1\DataBase\DataBase\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\1\DataBase\DataBase\bin\Debug\EnvDTE.dll
+D:\1\DataBase\DataBase\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\1\DataBase\DataBase\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\1\DataBase\DataBase\bin\Debug\stdole.dll
+D:\1\DataBase\DataBase\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\1\DataBase\DataBase\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\1\DataBase\DataBase\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\1\DataBase\DataBase\bin\Debug\Microsoft.MSXML.dll
+D:\1\DataBase\DataBase\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\DataBase\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1\DataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+D:\1\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+D:\1\DataBase\DataBase\obj\Debug\DataBase.Form2.resources
+D:\1\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+D:\1\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+D:\1\DataBase\DataBase\obj\Debug\RdlCompile.cache
+D:\1\DataBase\DataBase\obj\Debug\RdlCompile.compiled
+D:\1\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+D:\1\DataBase\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+D:\1\DataBase\DataBase\obj\Debug\DataBase.exe
+D:\1\DataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\EnvDTE.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\stdole.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\Microsoft.MSXML.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sanja\source\repos\DataBase\DataBase\obj\Debug\DataBase.Form2.resources
+C:\Users\sanja\source\repos\DataBase\DataBase\obj\Debug\RdlCompile.cache
+C:\Users\sanja\source\repos\DataBase\DataBase\obj\Debug\RdlCompile.compiled
+C:\Users\sanja\source\repos\DataBase\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\DataBase.exe.config
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\DataBase.exe
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\DataBase.pdb
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\EnvDTE.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\stdole.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\Microsoft.MSXML.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\obj\Debug\DataBase.Form1.resources
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\obj\Debug\DataBase.Form2.resources
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\obj\Debug\RdlCompile.cache
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\obj\Debug\RdlCompile.compiled
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\obj\Debug\DataBase.exe
+D:\3.MCA THIRD SEMESTER\1.project\E-Contact\DataBase\obj\Debug\DataBase.pdb
